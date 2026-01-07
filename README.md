@@ -1,6 +1,8 @@
-### Hey, I'm Alex 👋
+## Hey there, I'm Alex 👋
 
-I'm interested in Free and Open Source Software, Software Development, and DevOps. Mainly working with Linux, Nix and Git.
+- I'm a software engineer from Germany 
+- Right now I'm tinkering with Flutter, Emacs and Nix
+- I'm passionate about *nix, clean architecture and functional programming
 
-[![stats](https://github-readme-stats.vercel.app/api?username=confusedalex&theme=gruvbox&count_private=true)](https://github.com/confusedalex)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=confusedalex&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/confusedalex?tab=repositories)
+[![stats](./profile/stats.svg)](https://github.com/confusedalex)
+[![langs](./profile/top-langs.svg)](https://github.com/confusedalex?tab=repositories)
